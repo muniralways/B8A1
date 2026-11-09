@@ -16,3 +16,8 @@ For the blog section, I chose two topics that are directly connected to the codi
 - `solutions.ts` — solutions to all eight programming problems
 - `type-narrowing.md` — blog about narrowing union types safely
 - `access-modifiers.md` — blog about `public`, `private`, `protected`, and `readonly`
+
+
+
+Name : Shirajam Munir  
+Student Id: L2B8-0049
